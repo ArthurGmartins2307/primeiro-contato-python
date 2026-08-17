@@ -1,0 +1,5 @@
+print("Qual é a altura do triângulo?")
+h = float(input())
+print("Qual é a base do triângulo?")
+b = float(input())
+print("A área do triângulo é", (b * h)/2)
