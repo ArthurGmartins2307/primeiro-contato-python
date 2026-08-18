@@ -1,0 +1,6 @@
+print("Escreva uma frase que e depois escreva a palavra que quer tirar, depois a palavra que será colocada no lugar da que você quer trocar:")
+frase = input("Digite uma frase: ")
+palavra1 = input("Digite a palavra que quer trocar: ")
+palavra2 = input("Digite a palavra que você quer que seja colocada: ")
+frase = frase.replace(palavra1, palavra2)
+print(frase)
