@@ -1,5 +1,3 @@
-Claro, Sr. Como esse repositório vai acompanhar **seu aprendizado de Python no SENAI**, eu faria um README simples e profissional, sem fingir que você já domina a linguagem.
-
 # Python — SENAI
 
 Este repositório reúne meus estudos, exercícios e práticas de **Python** realizados durante minha formação em **Análise e Desenvolvimento de Sistemas (ADS)** no SENAI.
